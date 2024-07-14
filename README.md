@@ -1,4 +1,12 @@
 ### Hi there, I'm Joao 👋
+<hr>
+<h3>Currently Learning:</h3>
+<ol>
+    <li>CCNA Exam Course</li>
+    <li>SOC Level 1</li>
+    <li>Compilers (Uni)</li>
+    <li>Neural Networks and Deep Learning (Uni)</li>
+</ol>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -11,16 +19,3 @@
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jvlaimer@gmail.com
 ![tryhackme stats](https://raw.githubusercontent.com/JoaoLaimer/JoaoLaimer/master/assets/thm_propic.png)
 <!--
-**JoaoLaimer/JoaoLaimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
