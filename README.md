@@ -18,4 +18,3 @@
 <br>
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jvlaimer@gmail.com
 ![tryhackme stats](https://raw.githubusercontent.com/JoaoLaimer/JoaoLaimer/master/assets/thm_propic.png)
-<!--
