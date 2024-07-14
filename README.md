@@ -3,12 +3,12 @@
 
 <hr></hr>
 <h3>Currently Learning:</h3>
-<ol>
+<ul>
     <li>CCNA Exam Course</li>
     <li>SOC Level 1</li>
     <li>Compilers (Uni)</li>
     <li>Neural Networks and Deep Learning (Uni)</li>
-</ol>
+</ul>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -20,4 +20,4 @@
 ![JoaoLaimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolaimer&show_icons=true&theme=dark)
 <br>
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jvlaimer@gmail.com
-![tryhackme stats](https://raw.githubusercontent.com/JoaoLaimer/JoaoLaimer/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/joaolaimer/joaolaimer/master/assets/thm_propic.png)
