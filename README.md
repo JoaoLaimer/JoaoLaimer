@@ -9,7 +9,7 @@
 ![JoaoLaimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolaimer&show_icons=true&theme=dark)
 <br>
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jvlaimer@gmail.com
-![TryHackMe!](https://tryhackme.com/badge/3057685)
+![tryhackme stats](https://raw.githubusercontent.com/JoaoLaimer/JoaoLaimer/master/assets/thm_propic.png)
 <!--
 **JoaoLaimer/JoaoLaimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
