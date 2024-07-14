@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Hi+there!+I'm+Joao)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%55E2E9&lines=Hi+there!+I'm+Joao)](https://git.io/typing-svg)
 
 
 <hr></hr>
