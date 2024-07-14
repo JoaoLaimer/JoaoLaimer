@@ -20,4 +20,4 @@
 ![JoaoLaimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolaimer&show_icons=true&theme=dark)
 <br>
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jvlaimer@gmail.com
-![tryhackme stats](https://raw.githubusercontent.com/joaolaimer/joaolaimer/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/JoaoLaimer/JoaoLaimer/main/assets/thm-propic.png)
