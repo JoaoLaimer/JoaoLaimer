@@ -5,7 +5,7 @@
 <h3>Currently Learning:</h3>
 <ul>
     <li>CCNA Exam Course</li>
-    <li>SOC Level 1</li>
+    <li>CompTia Security+</li>
     <li>Compilers (Uni)</li>
     <li>Neural Networks and Deep Learning (Uni)</li>
 </ul>
