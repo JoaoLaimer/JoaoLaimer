@@ -6,8 +6,7 @@
 <ul>
     <li>CCNA Exam Course</li>
     <li>CompTia Security+</li>
-    <li>Compilers (Uni)</li>
-    <li>Neural Networks and Deep Learning (Uni)</li>
+    <li>Black Hat Python</li>
 </ul>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
