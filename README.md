@@ -4,7 +4,8 @@
 <hr></hr>
 <h3>Currently Learning:</h3>
 <ul>
-    <li>CompTia Security+</li>
+    <li>eJPT</li>
+    <li>Homelabing</li>
     <li>The Web Application Hacker's Handbook</li>
     <li>GOlang programming</li>
 </ul>
