@@ -4,10 +4,7 @@
 <hr></hr>
 <h3>Currently Learning:</h3>
 <ul>
-    <li>eJPT</li>
-    <li>Homelabing</li>
-    <li>The Web Application Hacker's Handbook</li>
-    <li>GOlang programming</li>
+    <li>we do be hacking</li>
 </ul>
 
 <br>
